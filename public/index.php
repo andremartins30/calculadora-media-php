@@ -27,7 +27,7 @@
 
         // Validar se os campos não estão vazios
         if (empty($nota1) || empty($nota2)) {
-            echo '<p class="error">Por favor, preencha todos os campos de nota.</p>';
+            echo '';
         } else {
             $nota1 = floatval($nota1);
             $nota2 = floatval($nota2); 

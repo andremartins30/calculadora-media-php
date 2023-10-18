@@ -3,7 +3,6 @@ h1 {
     color: #333;
     text-align: center;
     font-family: Arial, sans-serif;
-    /* Alterando a fonte */
 }
 
 /* Estilo para o formulário */
@@ -21,7 +20,6 @@ label {
     display: block;
     margin-bottom: 10px;
     font-family: Arial, sans-serif;
-    /* Alterando a fonte */
 }
 
 /* Estilo para os campos de entrada */
@@ -40,25 +38,19 @@ input[type="submit"] {
     border: none;
     cursor: pointer;
     font-family: Arial, sans-serif;
-    /* Alterando a fonte */
 }
 
 /* Estilo para a mensagem de resultado */
 .result {
     text-align: center;
-    /* Alinhando ao centro */
     margin-top: 36px;
     font-weight: bold;
     font-size: 24px;
-    /* Aumentando a fonte */
 }
 
 .error {
     color: red;
-    /* Define a cor vermelha */
     text-align: center;
-    /* Centraliza o texto */
     font-weight: bold;
     font-size: 24px;
-    /* Define o peso da fonte como negrito */
 }
